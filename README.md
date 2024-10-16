@@ -2,6 +2,7 @@
 
 ---
 **Note:** Unfortunately, I lost the password to my old GitHub account [Old GitHub Account](https://github.com/elyk48) 😞. You can find my new work here!
+---
 **Gitlab account:** [Gitlab](https://gitlab.com/elyeskabous).
 
 <p align="center">

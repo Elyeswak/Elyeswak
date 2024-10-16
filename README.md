@@ -2,6 +2,7 @@
 
 ---
 **Note:** Unfortunately, I lost the password to my old GitHub account [Old GitHub Account](https://github.com/elyk48) 😞. You can find my new work here!
+**Gitlab account:** [Gitlab](https://gitlab.com/elyeskabous).
 
 <p align="center">
   <img src="https://res.cloudinary.com/dpamzgevs/image/upload/v1723749217/nnbz8zavurzytsvmqv95.png" width="100%" title="Intro Card" alt="Intro Card">

@@ -9,7 +9,7 @@
   <img src="https://res.cloudinary.com/dpamzgevs/image/upload/v1723749217/nnbz8zavurzytsvmqv95.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a **Software Engineer, Full Stack JS Developer, and Game Developer** with expertise in JavaScript, MERN Stack, Unity, and C#. Passionate about building dynamic applications and immersive gaming experiences.
+I am a **Software Engineer, Full Stack Developer, and Game Developer** with expertise in JavaScript, MERN Stack, Unity, C#, and .NET. Passionate about building dynamic applications and immersive gaming experiences.
  
 🌱 I’m currently diving into Google Cloud Platform <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> and expanding my knowledge in Kubernetes, game design.
  

@@ -53,14 +53,13 @@ I am a **Software Engineer, Full Stack Developer, and Game Developer** with expe
 ---
 
 ### You can find me on the web 🌍
-[<img align="left" alt="YourName" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(100%);" />](https://elyeskabous.my.canva.site/)
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);" />](https://www.linkedin.com/in/elyes-kabous/)
-
+[<img align="left" alt="Globe" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://elyeskabous.my.canva.site/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/elyes-kabous/)
 
 <br/>
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.
+Let's connect and work together.
 
 **Check the Repositories and don't forget to give a star.**

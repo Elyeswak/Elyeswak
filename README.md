@@ -32,6 +32,7 @@ I am a **Software Engineer, Full Stack Developer, and Game Developer** with expe
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat"/>
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"/>
   <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>

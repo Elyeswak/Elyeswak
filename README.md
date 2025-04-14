@@ -53,8 +53,8 @@ I am a **Software Engineer, Full Stack Developer, and Game Developer** with expe
 ---
 
 ### You can find me on the web 🌍
-[<img align="left" alt="Website" width="42px" src="https://img.shields.io/badge/-Website-0077B5?style=flat&logo=internet-explorer&logoColor=white" />](https://elyeskabous.my.canva.site/)
-[<img align="left" alt="LinkedIn" width="42px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elyes-kabous/)
+[<img align="left" alt="Website" width="64px" src="https://img.shields.io/badge/-Website-0077B5?style=flat&logo=internet-explorer&logoColor=white" />](https://elyeskabous.my.canva.site/)
+[<img align="left" alt="LinkedIn" width="64px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elyes-kabous/)
 
 
 <br/>

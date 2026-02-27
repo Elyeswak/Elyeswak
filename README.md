@@ -10,7 +10,7 @@ You can find all my new work here!
 ---
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dpamzgevs/image/upload/v1723749217/nnbz8zavurzytsvmqv95.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://res.cloudinary.com/dpamzgevs/image/upload/v1772212124/Add_a_heading_bjaorj.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a **Software Engineer, Full Stack Developer, and Game Developer** experienced in JavaScript, MERN Stack, Unity, C#, and .NET.  

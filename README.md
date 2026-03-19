@@ -16,7 +16,7 @@ You can find all my new work here!
 I am a **Software Engineer, Full Stack Developer** experienced in JavaScript, MERN Stack, Unity, C/C++/C#, and python 
 I love building dynamic web platforms and creating immersive gaming experiences.
 
-👯 Open to collaboration  
+🧑‍💻 Open to collaboration  
 💬 Feel free to ask me about my projects.
 
 ---

@@ -13,14 +13,11 @@ You can find all my new work here!
   <img src="https://res.cloudinary.com/dpamzgevs/image/upload/v1772212124/Add_a_heading_bjaorj.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a **Software Engineer, Full Stack Developer, and Game Developer** experienced in JavaScript, MERN Stack, Unity, C#, and .NET.  
+I am a **Software Engineer, Full Stack Developer** experienced in JavaScript, MERN Stack, Unity, C/C++/C#, and python 
 I love building dynamic web platforms and creating immersive gaming experiences.
 
-🌱 Currently exploring **Google Cloud Platform** <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white">,  
-and expanding my skills in **Kubernetes** and **game design**.
-
-👯 Open to collaboration on **web applications** and **indie Unity games**.  
-💬 Feel free to ask me about **Full Stack Development**.
+👯 Open to collaboration  
+💬 Feel free to ask me about my projects.
 
 ---
 
@@ -52,18 +49,9 @@ and expanding my skills in **Kubernetes** and **game design**.
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
 </p>
 
 ---
 
-### 🌍 Find Me Online
 
-[<img align="left" alt="Website" width="64px" src="https://img.shields.io/badge/-Website-0077B5?style=flat&logo=internet-explorer&logoColor=white" />](https://elyeskabous.tn/)
-[<img align="left" alt="LinkedIn" width="64px" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/elyes-kabous/)
-
-<br/><br/>
-
----
-
-Let's connect, create, and build great things together. 
+Let's connect, create, and explore great things together. 
